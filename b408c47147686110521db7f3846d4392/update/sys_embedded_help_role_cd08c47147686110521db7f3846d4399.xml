@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_757927_learn_t_0.admin" name="x_757927_learn_t_0.admin">0508c47147686110521db7f3846d4398</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-22 19:41:09</sys_created_on>
+        <sys_id>cd08c47147686110521db7f3846d4399</sys_id>
+        <sys_name>0508c47147686110521db7f3846d4398</sys_name>
+        <sys_package display_value="Learn Tokyo" source="x_757927_learn_t_0">b408c47147686110521db7f3846d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Learn Tokyo">b408c47147686110521db7f3846d4392</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cd08c47147686110521db7f3846d4399</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

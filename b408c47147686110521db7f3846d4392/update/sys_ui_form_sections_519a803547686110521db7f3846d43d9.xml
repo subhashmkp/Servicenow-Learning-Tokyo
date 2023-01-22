@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="519a803547686110521db7f3846d43d9" sys_domain="global" table="x_757927_learn_t_0_learning_topic" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-22 19:52:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>519a803547686110521db7f3846d43dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_757927_learn_t_0_learning_topic" name="x_757927_learn_t_0_learning_topic" sys_domain="global" view="Default view">519a803547686110521db7f3846d43d9</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_757927_learn_t_0_learning_topic" sys_domain="global" view="Default view">5d684c3147686110521db7f3846d4341</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-22 19:52:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_757927_learn_t_0_learning_topic</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-22 19:52:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>519a803547686110521db7f3846d43d9</sys_id>
+            <sys_name>x_757927_learn_t_0_learning_topic</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Learn Tokyo" source="x_757927_learn_t_0">b408c47147686110521db7f3846d4392</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Learn Tokyo">b408c47147686110521db7f3846d4392</sys_scope>
+            <sys_update_name>sys_ui_form_sections_519a803547686110521db7f3846d43d9</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
