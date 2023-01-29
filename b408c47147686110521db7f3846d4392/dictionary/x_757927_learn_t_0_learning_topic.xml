@@ -2,6 +2,7 @@
     <element db_object_id="36480c7147686110521db7f3846d4350" label="Learning Topic" max_length="40" name="x_757927_learn_t_0_learning_topic" type="collection">
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Key" max_length="40" name="key" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
         <element display="true" label="Number" max_length="40" name="number" type="string"/>
     </element>
